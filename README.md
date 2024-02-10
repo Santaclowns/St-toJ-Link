@@ -1,4 +1,4 @@
-This is a modified version of [SEGGER STLinkReflash utility]([https://pages.github.com/)](https://www.segger.com/downloads/jlink#STLink_Reflash)https://www.segger.com/downloads/jlink#STLink_Reflash)
+This is a modified version of [SEGGER STLinkReflash utility](https://www.segger.com/downloads/jlink#STLink_Reflash)https://www.segger.com/downloads/jlink#STLink_Reflash)
 You will probably have to downgrade your St-Link to an older driver. Tested on clone using: [STSW-LINK007 2.36.26 version]([https://pages.github.com/](https://www.st.com/en/development-tools/stsw-link007.html)https://www.st.com/en/development-tools/stsw-link007.html)
 
 **How to:**
