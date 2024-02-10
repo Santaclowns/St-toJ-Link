@@ -5,7 +5,7 @@ You will probably have to downgrade your St-Link to an older driver. Tested on c
 
 **How to:**
 
-Windows:
+   Windows:
 1. Unpack St-toJ-.zip
 2. Make sure .exe and .dll is in the same folder
 3. run STLinkReflash, follow instructions.
