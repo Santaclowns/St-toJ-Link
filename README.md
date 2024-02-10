@@ -4,7 +4,7 @@ You will probably have to downgrade your St-Link to an older driver. Tested on c
 
 **How to:**
 Windows:
-1. Unpack .gzf
+1. Unpack St-toJ-.zip
 2. Make sure .exe and .dll is in the same folder
 3. run STLinkReflash, follow instructions.
 4. Done
@@ -13,3 +13,11 @@ MacOS/Linux:
 1. Don't know, was originally made for Windows only
 ___
 Thanks to [NSA/Ghidra]([https://pages.github.com/](https://github.com/NationalSecurityAgency/ghidra)https://github.com/NationalSecurityAgency/ghidra)
+It's as simple as modifying the following binary offsets
+
+2566 (break) 3C -> 38
+2567 (new)   40 -> C0
+26B2 (break) 3C -> 38
+26B3 (new)   4A -> C0
+
+Additional .gzf file and .c export provided
