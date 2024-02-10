@@ -18,8 +18,11 @@ Thanks to [NSA/Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 It's as simple as modifying the following binary offsets
 
 2566 (break) 3C -> 38
+
 2567 (new)   40 -> C0
+
 26B2 (break) 3C -> 38
+
 26B3 (new)   4A -> C0
 
 Additional .gzf file and .c export provided
