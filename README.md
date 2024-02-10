@@ -12,7 +12,7 @@ Windows:
 MacOS/Linux:
 1. Don't know, was originally made for Windows only
 ___
-Thanks to [NSA/Ghidra]([https://pages.github.com/](https://github.com/NationalSecurityAgency/ghidra)https://github.com/NationalSecurityAgency/ghidra)
+Thanks to [NSA/Ghidra](https://github.com/NationalSecurityAgency/ghidra)
 It's as simple as modifying the following binary offsets
 
 2566 (break) 3C -> 38
