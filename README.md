@@ -1,3 +1,5 @@
+***If your ST-LINK/V2 is official, try using the legit paths for conversion first.***
+
 This is a modified version of [SEGGER STLinkReflash utility](https://www.segger.com/downloads/jlink#STLink_Reflash)
 
 You will probably have to downgrade your St-Link to an older driver. 
@@ -8,8 +10,12 @@ Tested and works on cloned ST-Link using: [STSW-LINK007 2.36.26 version](https:/
    Windows:
 1. Unpack St-toJ-.zip
 2. Make sure .exe and .dll is in the same folder
-3. Download and run [STSW-LINK007], follow instructions to upgrade firmware.
+3. Run STLinkReflash, follow the instructions.
 4. Done
+
+If you run into problems: 
+1. If your ST-LINK/V2 is official, try using the legit paths for conversion first.
+2. Downgrade to older ST-LINK/V2 drivers, start over.  
 
 MacOS/Linux:
 1. Don't know, was originally made for Windows only
