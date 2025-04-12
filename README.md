@@ -1,5 +1,6 @@
-***If your ST-LINK/V2 is official, try using the legit paths for conversion first.***
+<p align="center" >***If your ST-LINK/V2 is official, try using the legit paths for conversion first!***
 
+___
 This is a modified version of [SEGGER STLinkReflash utility](https://www.segger.com/downloads/jlink#STLink_Reflash)
 
 You will probably have to downgrade your St-Link to an older driver. 
