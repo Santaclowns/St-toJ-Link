@@ -1,4 +1,4 @@
-<p align="center" >***If your ST-LINK/V2 is official, try using the legit paths for conversion first!***
+_**If your ST-LINK/V2 is official, try using the legit paths for conversion first!**_
 
 ___
 This is a modified version of [SEGGER STLinkReflash utility](https://www.segger.com/downloads/jlink#STLink_Reflash)
